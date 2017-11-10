@@ -12,7 +12,7 @@ while($x <= 9) {
   $x++;
 }
 
-if ($x == 9) {
+if ($x == 10) {
 	echo ("dammit I'm like a confused 6");
 
 } 
