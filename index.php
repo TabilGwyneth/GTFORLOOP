@@ -6,6 +6,9 @@
 
 $a = 1; 
 
+echo "I am ";
+echo $a;
+echo "<br>";
 for ($a = 1; $a < 100; $a++;){
 $a +=1;
 }
