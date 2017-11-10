@@ -4,12 +4,8 @@
 
 <?php
 
-$x = 1;
-
-  
-while($x <= 100) {   
-  echo "I added another one, I'm now: $x <br>";    
-  $x++;
+for ($x = 1; $x <= 100; $x++) {     
+  echo "I added another one, I am now": $x <br>";
 } 
   
 ?>
