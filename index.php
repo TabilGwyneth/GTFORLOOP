@@ -11,8 +11,9 @@ echo $x;
 echo "<br>";
   
 while($x <= 100) {   
-  echo "The number is: $x <br>";    
-  $x++;} 
+  echo "I added another one, I'm now: $x <br>";    
+  $x++;
+} 
   
 ?>
   
